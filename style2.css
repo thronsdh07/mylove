@@ -1,0 +1,14 @@
+p{
+    font-size: 30px;
+    color: black;
+    font-weight: 535;
+
+}
+body{
+    background-image: linear-gradient(to bottom right,#edf2f4,#ff758f,#ef233c,#d90429);
+    font-family: 'Alkatra';font-size: 22px;
+}
+
+a {
+    font-weight: 600;
+}
